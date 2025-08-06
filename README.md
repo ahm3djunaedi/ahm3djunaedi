@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there! Welcome to my GitHub profile 👋
+Feel free to explore my repositories
+I'm passionate about coding and love to learn new things every day.
+
 
 <!--
 **ahm3djunaedi/ahm3djunaedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

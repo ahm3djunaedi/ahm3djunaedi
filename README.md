@@ -1,20 +1,29 @@
-## Hi there! Welcome to my GitHub profile 👋
-Feel free to explore my repositories
-I'm passionate about coding and love to learn new things every day.
+## 👋 Hello! I'm ahm3djunaedi
 
+Passionate developer who loves solving problems through code and continuously learning new technologies.  
+Building projects that make a difference one commit at a time.
 
-<!--
-**ahm3djunaedi/ahm3djunaedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🔭 What I'm working on
+- Crafting scalable web applications with React & Node.js  
+- Exploring automation tools to improve productivity  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 What I'm learning
+- Deepening knowledge in algorithms & data structures  
+- Diving into cloud computing and DevOps  
+
+### 🤝 Let's collaborate
+- Interested in open source contributions and innovative projects  
+
+### 📫 Get in touch
+- Email: ahm4d.junaedi@gmail.com 
+- LinkedIn: [linkedin.com/in/ahmad-junaedi](https://linkedin.com/in/ahmad-junaedi)  
+
+---
+
+> “Every line of code is a step closer to a better solution.”  
+
+---
+
 ![snake gif](./dist/github-snake.svg)

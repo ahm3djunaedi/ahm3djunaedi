@@ -1,3 +1,5 @@
+![snake gif](./dist/github-snake.svg)
+
 # 👋 Hello, I'm Ahmad Junaedi 
 
 **Full-Stack Developer | Open-Source Enthusiast | Problem Solver**  

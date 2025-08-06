@@ -72,4 +72,3 @@ Passionate about building scalable applications and automating workflows.
 
 ---
 
-![Snake Animation](https://github.com/ahm3djunaedi/ahm3djunaedi/blob/output/github-contribution-grid-snake.svg)

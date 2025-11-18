@@ -8,8 +8,9 @@ Passionate about building scalable applications and automating workflows.
 
 ---
 <div align="center">
-  <img src="./assets/stickman-fight.svg" width="420" alt="Stickman fight — minimal line animation" />
+  <img src="https://media.tenor.com/WsV4_tkLZjoAAAAC/stickmen-fight.gif" width="260" alt="Stickman Fight GIF" />
 </div>
+
 ---
 ## 🛠️ Tech Stack
 

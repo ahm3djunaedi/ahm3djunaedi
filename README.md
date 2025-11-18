@@ -8,6 +8,11 @@ Passionate about building scalable applications and automating workflows.
 
 ---
 
+<div align="center">
+  <img src="https://media.giphy.com/media/l0IylOPCNkiqOgMyA/giphy.gif" width="300px" />
+</div>
+
+
 ## 🛠️ Tech Stack
 
 ### **Frontend**  

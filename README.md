@@ -7,9 +7,8 @@ Passionate about building scalable applications and automating workflows.
 *"Code is poetry, but debugging is the editor's critique."*  
 
 ---
-
 <div align="center">
-  <img src="https://media.giphy.com/media/l0IylOPCNkiqOgMyA/giphy.gif" width="300px" />
+  <img src="https://media.giphy.com/media/26AHG5KGFxSkUWw1i/giphy.gif" width="300px" />
 </div>
 
 

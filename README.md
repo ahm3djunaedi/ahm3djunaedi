@@ -30,10 +30,24 @@ Passionate about building scalable applications and automating workflows.
 ##  GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahm3djunaedi&show_icons=true&hide_border=true&count_private=true&title_color=FFD700&icon_color=FFD700&text_color=333333&bg_color=FFFFFF" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahm3djunaedi&layout=compact&hide_border=true&title_color=FFD700&icon_color=FFD700&text_color=333333&bg_color=FFFFFF" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahm3djunaedi&theme=jolly&hide_border=true" />
+
+  <!-- CUSTOM RANK MANUAL -->
+  <h2>🔥 Rank: <span style="color:#ff006a;">S</span></h2>
+
+  <!-- MAIN GITHUB STATS -->
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api?username=ahm3djunaedi&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_rank=true" />
+
+  <!-- LANGUAGES -->
+  <img height="180em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahm3djunaedi&layout=compact&theme=radical&hide_border=true" />
+
+  <!-- STREAK STATS -->
+  <img 
+       src="https://github-readme-streak-stats.herokuapp.com/?user=ahm3djunaedi&theme=radical&hide_border=true" />
+
 </div>
+
 
 ---
 

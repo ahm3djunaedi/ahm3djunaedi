@@ -8,10 +8,9 @@ Passionate about building scalable applications and automating workflows.
 
 ---
 <div align="center">
-  <img src="https://media.giphy.com/media/26AHG5KGFxSkUWw1i/giphy.gif" width="300px" />
+  <img src="./assets/stickman-fight.svg" width="420" alt="Stickman fight — minimal line animation" />
 </div>
-
-
+---
 ## 🛠️ Tech Stack
 
 ### **Frontend**  

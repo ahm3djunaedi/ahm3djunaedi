@@ -31,9 +31,6 @@ Passionate about building scalable applications and automating workflows.
 
 <div align="center">
 
-  <!-- CUSTOM RANK MANUAL -->
-  <h2>🔥 Rank: <span style="color:#ff006a;">S</span></h2>
-
   <!-- MAIN GITHUB STATS -->
   <img height="180em" 
        src="https://github-readme-stats.vercel.app/api?username=ahm3djunaedi&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_rank=true" />

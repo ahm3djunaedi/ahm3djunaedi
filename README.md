@@ -10,8 +10,7 @@ Passionate about building scalable applications and automating workflows.
 <div align="center">
   <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300px" />
 </div>
---
-## 🛠️ Tech Stack
+---
 
 ### **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)

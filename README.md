@@ -8,8 +8,9 @@ Passionate about building scalable applications and automating workflows.
 
 ---
 <div align="center">
-  <img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="300px" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGg1NDE5NnlxNjh2cmV1aDJsNDYzdWt3c2FoNHRtbndod3pzcGxkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9ForTF8hGB1CB6DtFu/giphy.gif" width="300px" />
 </div>
+
 
 ### **Frontend**  
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)

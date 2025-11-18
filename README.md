@@ -8,10 +8,9 @@ Passionate about building scalable applications and automating workflows.
 
 ---
 <div align="center">
-  <img src="https://media.tenor.com/WsV4_tkLZjoAAAAC/stickmen-fight.gif" width="260" alt="Stickman Fight GIF" />
+  <img src="https://media.tenor.com/B3U3F6gK3RkAAAAC/stickmen-fight.gif" width="300" />
 </div>
-
----
+--
 ## 🛠️ Tech Stack
 
 ### **Frontend**  

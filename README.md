@@ -8,8 +8,9 @@ Passionate about building scalable applications and automating workflows.
 
 ---
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGg1NDE5NnlxNjh2cmV1aDJsNDYzdWt3c2FoNHRtbndod3pzcGxkbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9ForTF8hGB1CB6DtFu/giphy.gif" width="300px" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGpib3hibnY2anloc25sdW1hdG1tYnVjOXdmYXNuN2VlamxjN2FzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5hvEGhSIYUIX7ZTGry/giphy.gif" width="300px" />
 </div>
+
 
 
 ### **Frontend**  
